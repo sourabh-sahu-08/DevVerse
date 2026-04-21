@@ -1,20 +1,152 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 DevVerse
 
-# Run and deploy your AI Studio app
+**DevVerse** is a student-focused platform designed to help college students **learn, grow, and collaborate** in tech.
 
-This contains everything you need to run your app locally.
+It connects beginners with experienced peers, provides structured skill development, and introduces a **gamified environment** for continuous improvement.
 
-View your app in AI Studio: https://ai.studio/apps/195fbb48-39aa-4405-9c46-1e8c2ac460f3
+---
 
-## Run Locally
+## 🌟 Features
 
-**Prerequisites:**  Node.js
+### 👤 User Profiles
 
+* Showcase skills (React, Python, etc.)
+* GitHub integration
+* XP, levels, and badges
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🧠 Skill-Based Level System
+
+* Beginner → Pro → Intern
+* XP-driven progression
+* Performance-based ranking
+
+### 🤝 Mentor-Mentee System
+
+* Find seniors based on skills
+* Send mentorship requests
+* Rating and feedback system
+
+### 💬 Real-Time Chat
+
+* One-to-one messaging
+* Code snippet sharing
+* Interactive communication
+
+### 🧩 DSA Arena
+
+* Practice problems (Easy / Medium / Hard)
+* Daily challenges
+* Leaderboards
+
+### 🎮 Gamified Learning
+
+* XP points and streaks
+* Badges and achievements
+* Competitive environment
+
+### 🧑‍🤝‍🧑 Collaboration Hub
+
+* Find teammates
+* Build projects together
+* Hackathon participation
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React (Vite)
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB Atlas
+
+### Authentication
+
+* Firebase Auth / JWT
+
+### Realtime Features
+
+* Socket.io / Firebase Firestore
+
+### Deployment
+
+* Vercel (Frontend)
+* Render / Railway (Backend)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/devverse.git
+cd devverse
+```
+
+### 2. Install dependencies
+
+#### Frontend
+
+```bash
+cd client
+npm install
+npm run dev
+```
+
+#### Backend
+
+```bash
+cd server
+npm install
+npm run dev
+```
+
+---
+
+## 📌 Project Goals
+
+* Build a strong student tech community
+* Make learning collaborative and fun
+* Bridge the gap between beginners and experienced developers
+* Encourage real-world skill development
+
+---
+
+## 🔥 Future Enhancements
+
+* AI-based mentor recommendations
+* Resume analysis system
+* Advanced coding competitions
+* Internship simulation modules
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 💡 Inspiration
+
+Built with the vision to create a platform where students don't just learn — they **grow together**.
+
+---
+
+### ⭐ If you like this project, give it a star!
